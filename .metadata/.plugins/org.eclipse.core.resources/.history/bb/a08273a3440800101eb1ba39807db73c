@@ -1,0 +1,5 @@
+package com.currency.controller;
+
+public class CurrencyController {
+
+}
